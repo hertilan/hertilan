@@ -60,7 +60,7 @@ With hands-on experience from my internships at Binary Hub and BDF Rwanda, and a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
 </div>
 
-<h1>Steak</h1>
+<h1 align="center">Steak</h1>
 <br>
   
 <p align="center">
