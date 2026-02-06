@@ -13,7 +13,7 @@
 <h1 align="center">💫ABOUT ME</h1>
 <p>I'm a passionate Computer & Software Engineering student at the University of Rwanda, expected to graduate in 2026. My journey in technology is driven by a deep curiosity about how software can transform ideas into reality and solve complex problems.
 
-With hands-on experience from my internships at Binary Hub and BDF Rwanda, and a growing portfolio of projects, I'm dedicated to becoming a skilled full-stack developer who creates meaningful, user-centered applications.</p>
+With hands-on experience from my internships at Binary Hub and BDF Rwanda, and a growing portfolio of projects, I'm dedicated to successful a skilled full-stack developer who creates meaningful, user-centered applications.</p>
 
 ###
 
